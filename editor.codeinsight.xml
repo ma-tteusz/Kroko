@@ -1,7 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <EXCLUDED_PACKAGE NAME="com.google" />
-    <EXCLUDED_PACKAGE NAME="java.security.KeyStore.Entry" />
-  </component>
-</application>
